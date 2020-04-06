@@ -1,7 +1,7 @@
 # Roblox FPS Unlocker
 
 ## Helps:
-### Show FPS in Roblox
+### Show/Hide FPS in Roblox
 #### Use command: <kbd>SHIFT</kbd>+<kbd>F5</kbd>
 
 ## Downloads:
